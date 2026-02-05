@@ -21,6 +21,7 @@ I specialize in **Elixir**, **Phoenix LiveView**, and **PostgreSQL**, and I enjo
 - Develop modern, responsive frontends with **React** and **Tailwind CSS**
 - Create smooth, performant UIs using **Vite** and modern JavaScript
 - Build and integrate APIs using **Node.js**
+- Work with **machine learning** and **model training** for intelligent applications
 - Work on **payment platforms**, **financial systems**, and **mission-critical applications**
 - Collaborate across teams to ship reliable, well-tested features
 
@@ -40,6 +41,7 @@ I specialize in **Elixir**, **Phoenix LiveView**, and **PostgreSQL**, and I enjo
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-0B3C2D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-1E1B4B?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
