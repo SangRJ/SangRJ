@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Rogers Sangale
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rogers-sangale)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sangalerogers-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sangrogers.tech/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangalerogers@gmail.com)
 
 ---
@@ -47,7 +47,7 @@ I specialize in **Elixir**, **Phoenix LiveView**, and **PostgreSQL**, and I enjo
 
 ## 🌍 Portfolio
 🔗 **Website:**  
-👉 https://sangalerogers-portfolio.vercel.app/
+👉 https://sangrogers.tech/
 
 ---
 
