@@ -68,7 +68,7 @@ I specialize in building high-throughput, fault-tolerant backend architectures w
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=SangRJ&hide_border=true&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e6edf3&dates=8b949e" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=SangRJ&hide_border=true&background=0d1117&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=e6edf3&dates=8b949e&sideNums=e6edf3&currStreakNum=f59e0b" alt="GitHub Streak" />
 
 </div>
 
